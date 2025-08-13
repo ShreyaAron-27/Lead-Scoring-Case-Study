@@ -1,2 +1,23 @@
 # Lead-Scoring-Case-Study
-X Company needs help selecting the most promising leads. The goal is to build a model that can rank leads based on their likelihood to buy their product or service. This is called lead scoring and it helps prioritize and respond to leads effectively.
+
+## Goal  
+1) Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.  
+2) There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well. These problems are provided in a separate doc file. Please fill it based on the logistic regression model you got in the first step. Also, make sure you include this in your final PPT where you'll make recommendations.
+
+## Steps Followed  
+1) Importing Libraries and Data
+2) Data Understanding and Inspection
+3) Data Cleaning & Preparation
+4) Data Analysis (EDA)
+5) Data Preparation
+6) Test-Train Split
+7) Feature Scaling
+8) Model Building
+9) Model Evaluation
+10) Making Predictions on test set
+
+## Details of files given
+- Lead Scoring Case Study.ipynb : The python file showing coding and data analysis
+- Assignment Subjective Questions Answers.pdf : Some subjective questions answered
+- Lead Score Case Study Presentation.pdf : Final Presentation
+- Summary Lead Scoring Case Study.pdf : Summary on what's done in the entire py file
